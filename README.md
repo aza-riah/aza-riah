@@ -29,7 +29,7 @@ I am learning software engineering at ALX
 
 - :zap: In my free time, I like to draw on Ai and Autodesk sketchbook
 
-- :mailbox:How to reach me: [![Telegram badge](https://patrolavia.github.io/telegram-badge/chat.png)](https/t.me/baby_kumatetsu)
+- :mailbox:How to reach me: [![Telegram badge](https://img.shields.io/badge/telegram-chat-blue)](https//t.me/baby_kumatetsu)
 --- 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
