@@ -40,4 +40,4 @@ I am learning software engineering at ALX
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aza-riah&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aza-riah&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
