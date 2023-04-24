@@ -23,13 +23,12 @@
 ---
 ### :man_technologist: About Me :
 
-I am learning software engineering at ALX
+I am learning CNS by myself
 
-- :telescope: I’m interested in AI, ML and Data Science
+- :telescope: I’m interested in AI, ML, Data Science and Neuroscience
 
-- :zap: In my free time, I like to draw on Ai and Autodesk sketchbook
-
-- :mailbox:How to reach me: <div> <a href="https://t.me/baby_kumatetsu"> <img src="https://img.shields.io/badge/telegram-chat-blue"/> </a> </div>
+- :zap: In my free time, I like to read novels
+- :mailbox:How to reach me: <div> <a href="https://t.me/dypolornii"> <img src="https://img.shields.io/badge/telegram-chat-blue"/> </a> </div>
 --- 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
