@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am learning SWE @ AASTU
+I am learning SWE @AASTU
 
 - :telescope: I’m interested in AI, ML, Data Science and Neuroscience
 
