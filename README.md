@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aza-riah&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
