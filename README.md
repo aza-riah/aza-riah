@@ -23,11 +23,11 @@
 ---
 ### :man_technologist: About Me :
 
-I am learning CNS by myself
+I am learning SWE @ AASTU
 
 - :telescope: I’m interested in AI, ML, Data Science and Neuroscience
 
-- :zap: In my free time, I like to read novels
+- :zap: I develop games in my free time
 - :mailbox:How to reach me: <div> <a href="https://t.me/dypolornii"> <img src="https://img.shields.io/badge/telegram-chat-blue"/> </a> </div>
 --- 
 ### :hammer_and_wrench: Languages and Tools :
