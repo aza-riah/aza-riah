@@ -25,7 +25,7 @@ I am learning SWE @AASTU
 - :telescope: I’m interested in AI, ML, Data Science and Neuroscience
 
 - :zap: I develop games in my free time
-- :mailbox:How to reach me: <div> <a href="https://t.me/dypolornii"> <img src="https://img.shields.io/badge/telegram-chat-blue"/> </a> </div>
+- :mailbox:How to reach me:  <a href="https://t.me/dypolornii"> <img src="https://img.shields.io/badge/telegram-chat-blue"/> </a> 
 --- 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
